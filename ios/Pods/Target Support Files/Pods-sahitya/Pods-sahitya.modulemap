@@ -1,0 +1,6 @@
+module Pods_sahitya {
+  umbrella header "Pods-sahitya-umbrella.h"
+
+  export *
+  module * { export * }
+}
